@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Image Processing Camera</string>
+    <string name="image_processor_menu_toggle_button">Image Processor</string>
+    <string name="no_camera_error">There is no camera on the device.</string>
+    <string name="camera_is_not_available_error">Camera is not available.</string>
+    <string name="camera_permission_denied_error">Camera permission denied.</string>
+    <string name="camera_permission_specific">the camera permission is required for photographing.</string>
+    <string name="camera_permission_title">Why is the camera permission required?</string>
+    <string name="close_button">Close</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">초간단! 영상처리 카메라</string>
+    <string name="image_processor_menu_toggle_button">영상 처리기</string>
+    <string name="no_camera_error">기기에 등록된 카메라가 없음</string>
+    <string name="camera_is_not_available_error">카메라 사용불가</string>
+    <string name="camera_permission_denied_error">카메라 권한 거부됨</string>
+    <string name="camera_permission_specific">카메라 권한은 사진 촬영 및 미리보기를 위해 필요합니다.</string>
+    <string name="camera_permission_title">카메라 권한이 필요한 이유</string>
+    <string name="close_button">닫기</string>
+</resources>
